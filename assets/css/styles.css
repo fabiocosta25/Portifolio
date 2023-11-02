@@ -232,6 +232,7 @@ img {
 
 .home__blob {
   fill: var(--first-color);
+  width: 600px;
 }
 
 .home__blob-img {
